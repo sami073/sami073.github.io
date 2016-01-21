@@ -90,7 +90,8 @@ header {
   float: left;
   width: 500px;
   height: 90px;
-  background-image: url(http://i.imgur.com/0me8FAy.png) no-repeat;
+  background-image: url(http://i.imgur.com/0me8FAy.png);
+  background-repeat: no-repeat;
 }
 
 nav {
@@ -288,6 +289,8 @@ header {
   float: left;
   width: 500px;
   height: 90px;
+  background-image: url(http://i.imgur.com/0me8FAy.png);
+  background-repeat: no-repeat;
 }
 
 nav {
